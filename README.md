@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/YoonSeungHyn2/github-readme-stats)<br/><br/><br/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/YoonSeungHyn2/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonSeungHyun2)](https://github.com/YoonSeungHyn2/github-readme-stats)<br/><br/><br/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoonSeungHyun2)](https://github.com/YoonSeungHyn2/github-readme-stats)
 <div align="center">
   
  <br/><br/><br/>
